@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Referee Stats</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    select { padding: 8px; font-size: 16px; }
+    .chart-container { width: 90%; margin-top: 30px; display: flex; align-items: center; }
+    .chart-wrapper { flex: 1; overflow-x: auto; }
+    .chart-wrapper canvas { width: 600px; max-height: 350px; }
+    .ref-value { width: 200px; margin-left: 20px; font-weight: bold; font-size: 16px; white-space: nowrap; }
+    .header-container { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+
+  <div class="header-container">
+    <h1>Referee Statistics</h1>
+    <button onclick="window.location.href='index.html'" style="padding: 8px 16px; font-size: 16px;">Home</button>
+  </div>
+
+  <label for="refSelect">Select Referee:</label>
+  <select id="refSelect"></select>
+
+  <div id="charts"></div>
+
+  <script>
+    let refereeData = [];
+    let charts = [];
+
+    fetch("/refStats.json")
+      .then(r => r.json())
+      .then(data => {
+        // Keep only refs with >=10 games AND remove unknown refs
+        refereeData = data
+          .filter(r => r.games >= 10)
+          .filter(r => r.referee && r.referee.trim().toLowerCase() !== "unknown");
+
+        // Sort alphabetically by referee name
+        refereeData.sort((a, b) => a.referee.localeCompare(b.referee));
+
+        populateMenu();
+
+        const menu = document.getElementById("refSelect");
+        if (menu.options.length > 0) {
+          menu.selectedIndex = 0;
+          renderCharts();
+        }
+      });
+
+    function populateMenu() {
+      const menu = document.getElementById("refSelect");
+      menu.innerHTML = ""; // clear existing options
+
+      refereeData.forEach(ref => {
+        let option = document.createElement("option");
+        option.value = ref.referee;
+        option.textContent = ref.referee;
+        menu.appendChild(option);
+      });
+
+      menu.addEventListener("change", renderCharts);
+    }
+
+    function renderCharts() {
+      const selectedName = document.getElementById("refSelect").value;
+      const selected = refereeData.find(r => r.referee === selectedName);
+      const chartsDiv = document.getElementById("charts");
+      chartsDiv.innerHTML = "";
+
+      charts.forEach(c => c.destroy());
+      charts = [];
+
+      const stats = [
+        { label: "Average Red Cards per Game", fn: r => r.totalRedCard / r.games },
+        { label: "Average Yellow Cards per Game", fn: r => r.totalYellowCards / r.games },
+        { label: "Average Fouls per Game", fn: r => r.totalFouls / r.games },
+        { label: "Home Red Cards per Game", fn: r => r.homeRedCard / r.games },
+        { label: "Home Yellow Cards per Game", fn: r => r.homeYellowCard / r.games },
+        { label: "Home Fouls per Game", fn: r => r.homeFouls / r.games },
+        { label: "Away Red Cards per Game", fn: r => r.awayRedCard / r.games },
+        { label: "Away Yellow Cards per Game", fn: r => r.awayYellowCard / r.games },
+        { label: "Away Fouls per Game", fn: r => r.awayFouls / r.games },
+        { label: "Home-Away Red Diff", fn: r => (r.homeRedCard - r.awayRedCard) / r.games },
+        { label: "Home-Away Yellow Diff", fn: r => (r.homeYellowCard - r.awayYellowCard) / r.games },
+        { label: "Home-Away Foul Diff", fn: r => (r.homeFouls - r.awayFouls) / r.games },
+        { label: "Foul-to-Yellow Ratio", fn: r => r.totalFouls / r.totalYellowCards }
+      ];
+
+      stats.forEach(stat => {
+        const container = document.createElement("div");
+        container.className = "chart-container";
+
+        const chartWrapper = document.createElement("div");
+        chartWrapper.className = "chart-wrapper";
+        const canvas = document.createElement("canvas");
+        chartWrapper.appendChild(canvas);
+        container.appendChild(chartWrapper);
+
+        const valueDiv = document.createElement("div");
+        valueDiv.className = "ref-value";
+        const selectedValue = stat.fn(selected);
+        valueDiv.textContent = `${stat.label}: ${selectedValue.toFixed(2)}`;
+        container.appendChild(valueDiv);
+
+        chartsDiv.appendChild(container);
+
+        const allValues = refereeData.map(r => stat.fn(r));
+        const colors = refereeData.map(r =>
+          r.referee === selected.referee ? "pink" : "rgba(54, 162, 235, 0.7)"
+        );
+
+        new Chart(canvas, {
+          type: "bar",
+          data: {
+            labels: refereeData.map(r => r.referee),
+            datasets: [{
+              label: stat.label,
+              data: allValues,
+              backgroundColor: colors
+            }]
+          },
+          options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+              x: { ticks: { autoSkip: false, maxRotation: 90, minRotation: 90 } },
+              y: { beginAtZero: true }
+            },
+            plugins: { legend: { display: true } }
+          }
+        });
+      });
+    }
+  </script>
+
+</body>
+</html>

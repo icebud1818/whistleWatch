@@ -1,0 +1,2862 @@
+[
+    {
+        "matchId": "2561895",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561896",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561897",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 16.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561898",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561899",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561900",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561901",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561902",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561903",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 19.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561904",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561905",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 16.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561906",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 5.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561907",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561908",
+        "referee": "Michael Salisbury",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 5.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561909",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561910",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561911",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561912",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561913",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 2.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 17.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561914",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 5.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561915",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561916",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561917",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 17.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561918",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 15.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561919",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561920",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561921",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561922",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561923",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 17.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561924",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561925",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561926",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561927",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 9.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561928",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561929",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561930",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 17.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561931",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 20.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561932",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561933",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 17.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561934",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561935",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561936",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561937",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561938",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561939",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561940",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561941",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561942",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561943",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 5.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561944",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561945",
+        "referee": "Andy Madley",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561946",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561947",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561948",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561949",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 7.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 16.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561950",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561951",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 5.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 5.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561952",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561953",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561954",
+        "referee": "Michael Salisbury",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 9.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561955",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561956",
+        "referee": "John Brooks",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561957",
+        "referee": "Andrew Kitchen",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561958",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561959",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561960",
+        "referee": "Michael Salisbury",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 16.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561961",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561962",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561963",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561964",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 9.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561965",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561966",
+        "referee": "Tim Robinson",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561967",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 16.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561968",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 4.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561969",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561970",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561971",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 3.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561972",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 5.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561973",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561974",
+        "referee": "Andy Madley",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561975",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 17.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561976",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561977",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 16.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561978",
+        "referee": "Simon Hooper",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561979",
+        "referee": "Andy Madley",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561980",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561981",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561982",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 4.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561983",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 18.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561984",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561985",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561986",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561987",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561988",
+        "referee": "John Brooks",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561989",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561990",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561991",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 7.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561992",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561993",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2561994",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 5.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561995",
+        "referee": "John Brooks",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 20.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561996",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561997",
+        "referee": "Andrew Kitchen",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2561998",
+        "referee": "Tim Robinson",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2561999",
+        "referee": "Andy Madley",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562000",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562001",
+        "referee": "Jarred Gillett",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562002",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2562003",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 8.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2562004",
+        "referee": "Michael Salisbury",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 15.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562005",
+        "referee": "Thomas Bramall",
+        "homeTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 9.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 10.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2562006",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 15.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562007",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 9.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562008",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562009",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 5.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562010",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 18.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 16.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562011",
+        "referee": "Andy Madley",
+        "homeTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 8.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562012",
+        "referee": "Tony Harrington",
+        "homeTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562013",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 8.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562014",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 9.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562015",
+        "referee": "Chris Kavanagh",
+        "homeTeam": {
+            "teamId": "7",
+            "teamName": "Aston Villa",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 13.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "39",
+            "teamName": "Wolverhampton Wanderers",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 21.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562016",
+        "referee": "Samuel Barrott",
+        "homeTeam": {
+            "teamId": "94",
+            "teamName": "Brentford",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "90",
+            "teamName": "Burnley",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562017",
+        "referee": "Anthony Taylor",
+        "homeTeam": {
+            "teamId": "8",
+            "teamName": "Chelsea",
+            "goals": 1.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "draw"
+        },
+        "awayTeam": {
+            "teamId": "3",
+            "teamName": "Arsenal",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 6.0,
+            "fkFoulLost": 13.0,
+            "result": "draw"
+        }
+    },
+    {
+        "matchId": "2562018",
+        "referee": "Robert Jones",
+        "homeTeam": {
+            "teamId": "31",
+            "teamName": "Crystal Palace",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 14.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "1",
+            "teamName": "Manchester United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562019",
+        "referee": "Craig Pawson",
+        "homeTeam": {
+            "teamId": "11",
+            "teamName": "Everton",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 4.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "4",
+            "teamName": "Newcastle United",
+            "goals": 4.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 6.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562020",
+        "referee": "Peter Bankes",
+        "homeTeam": {
+            "teamId": "43",
+            "teamName": "Manchester City",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 4.0,
+            "fkFoulLost": 17.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "2",
+            "teamName": "Leeds United",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562021",
+        "referee": "Michael Oliver",
+        "homeTeam": {
+            "teamId": "17",
+            "teamName": "Nottingham Forest",
+            "goals": 0.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "36",
+            "teamName": "Brighton and Hove Albion",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 10.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562022",
+        "referee": "Tim Robinson",
+        "homeTeam": {
+            "teamId": "56",
+            "teamName": "Sunderland",
+            "goals": 3.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        },
+        "awayTeam": {
+            "teamId": "91",
+            "teamName": "Bournemouth",
+            "goals": 2.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 5.0,
+            "fkFoulLost": 13.0,
+            "result": "loss"
+        }
+    },
+    {
+        "matchId": "2562023",
+        "referee": "Stuart Attwell",
+        "homeTeam": {
+            "teamId": "6",
+            "teamName": "Tottenham Hotspur",
+            "goals": 1.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 3.0,
+            "fkFoulLost": 11.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "54",
+            "teamName": "Fulham",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 2.0,
+            "fkFoulLost": 7.0,
+            "result": "win"
+        }
+    },
+    {
+        "matchId": "2562024",
+        "referee": "Darren England",
+        "homeTeam": {
+            "teamId": "21",
+            "teamName": "West Ham United",
+            "goals": 0.0,
+            "totalRedCard": 1.0,
+            "totalYellowCards": 1.0,
+            "fkFoulLost": 12.0,
+            "result": "loss"
+        },
+        "awayTeam": {
+            "teamId": "14",
+            "teamName": "Liverpool",
+            "goals": 2.0,
+            "totalRedCard": 0.0,
+            "totalYellowCards": 0.0,
+            "fkFoulLost": 14.0,
+            "result": "win"
+        }
+    }
+]

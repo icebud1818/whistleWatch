@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Club Stats</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@2.1.1/dist/chartjs-plugin-annotation.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    select { padding: 8px; font-size: 16px; margin-bottom: 20px; }
+    .chart-container { width: 85%; margin-top: 30px; display: flex; align-items: center; }
+    .chart-container canvas { flex: 1; }
+    .club-value { width: 180px; margin-left: 20px; font-weight: bold; font-size: 16px; }
+  </style>
+</head>
+<body>
+  <button onclick="window.location.href='index.html'" style="padding: 8px 16px; font-size: 16px;">Home</button>
+  <h1>Club Statistics</h1>
+  <label for="clubSelect">Select Club:</label>
+  <select id="clubSelect"></select>
+
+  <div id="charts"></div>
+
+  <!-- Link to your clubs.js -->
+  <script src="clubs.js"></script>
+</body>
+</html>
