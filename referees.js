@@ -2,7 +2,7 @@ let refereeData = [];
 let charts = [];
 
 // Load referee stats JSON
-fetch("/refStats.json")
+fetch("refStats.json")
   .then(r => r.json())
   .then(data => {
     // Only refs with >=10 games

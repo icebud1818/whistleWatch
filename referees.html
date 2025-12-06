@@ -31,7 +31,7 @@
     let refereeData = [];
     let charts = [];
 
-    fetch("/refStats.json")
+    fetch("refStats.json")
       .then(r => r.json())
       .then(data => {
         // Keep only refs with >=10 games AND remove unknown refs

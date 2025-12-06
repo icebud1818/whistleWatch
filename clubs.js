@@ -34,7 +34,7 @@ const teamMapping = {
 };
 
 // Load all matches JSON
-fetch("/allMatches.json")
+fetch("allMatches.json")
   .then(r => r.json())
   .then(data => {
     matches = data;
